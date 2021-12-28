@@ -66,11 +66,11 @@ Beside of programming I really enjoy working with
 <div style='display:flex; justify-content:flex-start; gap: 3rem;'>
 <div>
 <h4>2021</h4>
-<img alt="2021" title="2021" src="rack.jpg" height="400">
+<img alt="2021" title="2021" src="rack.jpg" height="350">
 </div>
 <div>
 <h4>2022</h4>
-<img alt="2022" title="2022" src="rack2.jpg" height="400">
+<img alt="2022" title="2022" src="rack2.jpg" height="350">
 </div>
 </div>
 
@@ -101,4 +101,4 @@ impl Skills {
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MikMuellerDev&theme=dracula&langs_count=20&layout=compact)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=MikMuellerDev&theme=dracula&margin-w=5&margin-h=5&column=3&row=6)
+<!-- ![Trophies](https://github-profile-trophy.vercel.app/?username=MikMuellerDev&theme=dracula&margin-w=5&margin-h=5&column=3&row=6) -->
