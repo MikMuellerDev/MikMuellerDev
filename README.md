@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**MikMuellerDev/MikMuellerDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```rust
+struct Portfolio;
 
-Here are some ideas to get you started:
+impl Portfolio {
+    const NAME: &'static str = "Mik Müller";
+    const PROFILE: &'static str = "Student";
+    const LOCATION: &'static str = "Germany, Europe";
+    const EXPERIENCE: &'static str = "2+ years";
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+struct Skills;
+
+impl Skills {
+    const LANGUAGES: [&'static str; 6] = ["Rust", "JavaScript", "Python", "Java", "HTML / CSS"];
+    const OPERATING_SYSTEM: &'static str = "Arch Linux";
+    const DEVOPS: [&'static str; 4] = ["Docker", "Debian", "Portainer", "Ansible"];
+    const WEB_FRAMEWORKS: [&'static str; 3] = ["Flask", "ExpressJS", "Rocket"];
+}
+```
