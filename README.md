@@ -37,7 +37,7 @@
 <div style='display:flex; justify-content:flex-start; gap: 25rem;'>
 <div>
 <p>
-    <img alt="Go" title="Go" src="icons/gopher.png" height="70">
+    <img alt="Go" title="Go" src="icons/gopher.png" height="50">
     <img alt="Go" title="Go" src="icons/go.png" height="40">
     <img alt="TypeScript" title="TypeScript" src="icons/typescript.svg" height="40">
 </p>
