@@ -37,6 +37,8 @@
 <div style='display:flex; justify-content:flex-start; gap: 25rem;'>
 <div>
 <p>
+    <img alt="Go" title="Go" src="icons/gopher.png" height="70">
+    <img alt="Go" title="Go" src="icons/go.png" height="40">
     <img alt="TypeScript" title="TypeScript" src="icons/typescript.svg" height="40">
 </p>
 </div>
@@ -51,8 +53,6 @@
 <div style='display:flex; justify-content:flex-start; gap: 9rem;'>
 <div>
 <p>
-<img alt="Go" title="Go" src="icons/gopher.png" height="70">
-<img alt="Go" title="Go" src="icons/go.png" height="40">
 <img alt="Kotlin" title="Kotlin" src="icons/kotlin.svg" height="40">
 <img alt="Android Studio" title="Android Studio" src="icons/android-studio.svg" height="40">
 <img alt="Regular Expressions" title="Regular Expressions" src="icons/regex.svg" height="40">
