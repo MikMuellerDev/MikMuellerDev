@@ -71,15 +71,9 @@ Beside of programming I really enjoy working with
 - Building Computers (*hardware*)
 
 ### My (Server & Networking) Rack
-<div style='display:flex; justify-content:flex-start; gap: 3rem;'>
-<div>
-<h4>2021</h4>
-<img alt="2021" title="2021" src="rack.jpg" height="350">
-</div>
 <div>
 <h4>2022</h4>
 <img alt="2022" title="2022" src="rack2.jpg" height="350">
-</div>
 </div>
 
 
