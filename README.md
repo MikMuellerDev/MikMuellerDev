@@ -3,12 +3,10 @@
 
 ## Skills
 #### Experienced
-<div style='display:flex; justify-content:flex-start; gap: 2rem;'>
-<div>
-<h5>Programming Languages</h5>
 <p>
-    <img alt="Rust" title="Rust" src="icons/rust.svg" height="40">
     <img alt="JavaScript" title="JavaScript" src="icons/javascript.svg" height="40">
+    <img alt="Go" title="Go" src="icons/gopher.png" height="50">
+    <img alt="Rust" title="Rust" src="icons/rust.svg" height="40">
     <img alt="Java" title="Java" src="icons/java.svg" height="40">
     <img alt="NodeJs" title="NodeJs" src="icons/nodejs.png" height="40">
     <img alt="Python" title="Python" src="icons/python.svg" height="40">
@@ -17,9 +15,20 @@
     <img alt="Bash" title="Bash" src="icons/bash.svg" height="40">
 
 </p>
-</div>
-<div>
-<h5>Tools</h5>
+
+#### Intermediate
+<p>
+    <img alt="TypeScript" title="TypeScript" src="icons/typescript.svg" height="40">
+</p>
+
+#### Bad / Learning
+<p>
+<img alt="Kotlin" title="Kotlin" src="icons/kotlin.svg" height="40">
+<img alt="Android Studio" title="Android Studio" src="icons/android-studio.svg" height="40">
+<img alt="Regular Expressions" title="Regular Expressions" src="icons/regex.svg" height="40">
+</p>
+
+### Tools
 <p>
     <img alt="Linux" title="Linux" src="icons/linux.png" height="50">
     <img alt="Docker" title="Docker" src="icons/docker.png" height="40">
@@ -27,41 +36,6 @@
     <img alt="Flask" title="Flask" src="icons/flask.svg" height="40">
     <img alt="TeX" title="TeX" src="icons/tex.svg" height="35">
 </p>
-</div>
-</div>
-
-#### Intermediate
-
-
-
-<div style='display:flex; justify-content:flex-start; gap: 25rem;'>
-<div>
-<p>
-    <img alt="Go" title="Go" src="icons/gopher.png" height="50">
-    <img alt="Go" title="Go" src="icons/go.png" height="40">
-    <img alt="TypeScript" title="TypeScript" src="icons/typescript.svg" height="40">
-</p>
-</div>
-<div>
-<p>
-    <img alt="Gimp" title="Gimp" src="icons/gimp.svg" height="50">
-</p>
-</div>
-</div>
-
-#### Bad / Learning
-<div style='display:flex; justify-content:flex-start; gap: 9rem;'>
-<div>
-<p>
-<img alt="Kotlin" title="Kotlin" src="icons/kotlin.svg" height="40">
-<img alt="Android Studio" title="Android Studio" src="icons/android-studio.svg" height="40">
-<img alt="Regular Expressions" title="Regular Expressions" src="icons/regex.svg" height="40">
-</p>
-</div>
-<div>
-    <img alt="Rocket" title="Rocket" src="icons/rocket.svg" height="40">
-</div>
-</div>
 
 ## Hobbies
 Beside of programming I really enjoy working with
