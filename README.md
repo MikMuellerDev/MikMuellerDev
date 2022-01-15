@@ -23,6 +23,7 @@
 
 #### Bad / Learning
 <p>
+<img alt="C" title="C" src="icons/c.png" height="45">
 <img alt="Kotlin" title="Kotlin" src="icons/kotlin.svg" height="40">
 <img alt="Android Studio" title="Android Studio" src="icons/android-studio.svg" height="40">
 <img alt="Regular Expressions" title="Regular Expressions" src="icons/regex.svg" height="40">
