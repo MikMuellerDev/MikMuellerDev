@@ -52,8 +52,6 @@ Beside of programming I really enjoy working with
 <img alt="2022" title="2022" src="rack2.jpg" height="350">
 </div>
 
-```
-
 ## My Stats
 ![Mik's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikMuellerDev&show_icons=true&theme=dracula&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MikMuellerDev&theme=dracula&langs_count=20&layout=compact)
