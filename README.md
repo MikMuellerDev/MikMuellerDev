@@ -46,11 +46,11 @@ Beside of programming I really enjoy working with
 - Networking (*hardware*) (*software*)
 - Building Computers (*hardware*)
 
-### My (Server & Networking) Rack
-<div>
-<h4>2022</h4>
-<img alt="2022" title="2022" src="rack2.jpg" height="350">
-</div>
+<!-- ### My (Server & Networking) Rack -->
+<!-- <div> -->
+<!-- <h4>2022</h4> -->
+<!-- <img alt="2022" title="2022" src="rack2.jpg" height="350"> -->
+<!-- </div> -->
 
 ## My Stats
 ![Mik's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikMuellerDev&show_icons=true&theme=dracula&include_all_commits=true)
