@@ -19,8 +19,8 @@ I am a student from Germany with 2+ years of programming experience.
 
 #### Intermediate
 <p>
-    <img alt="C" title="C" src="icons/c.png" height="45">
     <img alt="TypeScript" title="TypeScript" src="icons/typescript.svg" height="40">
+    <img alt="C" title="C" src="icons/c.png" height="45">
 </p>
 
 #### Bad / Learning
