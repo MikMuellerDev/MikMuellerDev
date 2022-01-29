@@ -5,8 +5,8 @@ I am a student from Germany with 2+ years of programming experience.
 ## Skills
 #### Experienced
 <p>
-    <img alt="JavaScript" title="JavaScript" src="icons/javascript.svg" height="40">
     <img alt="Go" title="Go" src="icons/gopher.png" height="50">
+    <img alt="JavaScript" title="JavaScript" src="icons/javascript.svg" height="40">
     <img alt="Rust" title="Rust" src="icons/rust.svg" height="40">
     <img alt="Java" title="Java" src="icons/java.svg" height="40">
     <img alt="NodeJs" title="NodeJs" src="icons/nodejs.png" height="40">
