@@ -33,6 +33,7 @@ I am a student from Germany with 2+ years of programming experience.
 <p>
 <img alt="C++" title="C++" src="icons/cpp.png" height="45">
 <img alt="Haskell" title="Haskell" src="icons/haskell.png" height="40">
+<img alt="Roost" title="Roost" src="icons/roost.png" height="50">
 <img alt="Android Studio" title="Android Studio" src="icons/android-studio.svg" height="40">
 <img alt="Regular Expressions" title="Regular Expressions" src="icons/regex.svg" height="40">
 </p>
