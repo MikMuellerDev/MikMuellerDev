@@ -68,6 +68,6 @@ I am a student from Germany with 2+ years of programming experience.
 ![Mik's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikMuellerDev&show_icons=true&theme=dracula&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MikMuellerDev&theme=dracula&langs_count=20&layout=compact)
 ![Activity Graph 2](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MikMuellerDev&theme=github_dark)
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=MikMuellerDev&bg_color=0D1117&color=34BF5C&line=34BF5C&point=FFFFFF&hide_border=true&)
+<!-- ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=MikMuellerDev&bg_color=0D1117&color=34BF5C&line=34BF5C&point=FFFFFF&hide_border=true&) -->
 
 <!-- ![Trophies](https://github-profile-trophy.vercel.app/?username=MikMuellerDev&theme=dracula&margin-w=5&margin-h=5&column=3&row=6) -->
