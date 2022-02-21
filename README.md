@@ -50,12 +50,12 @@ I am a student from Germany with 2+ years of programming experience.
 
 ## Hobbies
 
-Beside of programming I really enjoy working with
+<!-- Beside of programming I really enjoy working with
 
 - Linux (_softare_)
 - Servers (_hardware_)
 - Networking (_hardware_) (_software_)
-- Building Computers (_hardware_)
+- Building Computers (_hardware_) -->
 
 <!-- ### My (Server & Networking) Rack -->
 <!-- <div> -->
