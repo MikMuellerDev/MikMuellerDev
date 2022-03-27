@@ -2,7 +2,7 @@
 
 ## https://mik-mueller.de
 
-I am a student from Germany with 2+ years of programming experience.
+I am a student from Germany with 3+ years of programming experience.
 
 ## Skills
 
