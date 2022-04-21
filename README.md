@@ -24,6 +24,7 @@ I am a student from Germany with 3+ years of programming experience.
     <img alt="C" title="C" src="icons/c.png" height="45">
     <img alt="Java" title="Java" src="icons/java.svg" height="40">
     <img alt="Python" title="Python" src="icons/python.svg" height="40">
+    <img alt="Svelte" title="Svelte" src="icons/svelte.webp" height="40">
     <img alt="CSS" title="CSS" src="icons/css.svg" height="40">
 </p>
 
