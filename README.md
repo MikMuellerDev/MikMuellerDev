@@ -12,7 +12,6 @@ I am a student from Germany with 3+ years of programming experience.
     <img alt="Go" title="Go" src="icons/gopher.png" height="50">
     <img alt="TypeScript" title="TypeScript" src="icons/typescript.svg" height="40">
     <img alt="JavaScript" title="JavaScript" src="icons/javascript.svg" height="40">
-    <img alt="NodeJs" title="NodeJs" src="icons/nodejs.png" height="40">
     <img alt="Bash" title="Bash" src="icons/bash.svg" height="40">
      <img alt="Svelte" title="Svelte" src="icons/svelte.webp" height="40">
     <img alt="HTML" title="HTML" src="icons/html.svg" height="40">
