@@ -21,7 +21,6 @@ I am a student from Germany with 3+ years of programming experience.
 
 <p>        
     <img alt="Rust" title="Rust" src="icons/rust.svg" height="40">
-    <img alt="C" title="C" src="icons/c.png" height="45">
     <img alt="Java" title="Java" src="icons/java.svg" height="40">
     <img alt="Python" title="Python" src="icons/python.svg" height="40">
     <img alt="CSS" title="CSS" src="icons/css.svg" height="40">
@@ -30,6 +29,7 @@ I am a student from Germany with 3+ years of programming experience.
 #### Bad / Learning
 
 <p>
+<img alt="C" title="C" src="icons/c.png" height="45">
 <img alt="C++" title="C++" src="icons/cpp.png" height="45">
 <img alt="Haskell" title="Haskell" src="icons/haskell.png" height="40">
 <img alt="Roost" title="Roost" src="icons/roost.png" height="50">
