@@ -2,12 +2,12 @@
 ### German student with 3+ years of programming experience.
 
 ## FAQ
-|Question|Answer|
-|-       |-     |
-|What am I studying? | Computer Science and English|
-|What is your preffered language? | Go |
-|Which IDE are you using? | No IDE, I'm using nvim as my text editor |
-|What is your programming setup? | Arch Linux, BSPWM, Alacritty, NVIM| 
+| Question                         | Answer                                   |
+|----------------------------------|------------------------------------------|
+| What am I studying?              | Computer Science and English             |
+| What is your preffered language? | Go                                       |
+| Which IDE are you using?         | No IDE, I'm using NVIM as my text editor |
+| What is your programming setup?  | Arch Linux, BSPWM, Alacritty, NVIM       |
 
 
 ## Skills
@@ -25,7 +25,7 @@
 
 #### Intermediate
 
-<p>        
+<p>
     <img alt="Rust" title="Rust" src="icons/rust.svg" height="40">
     <img alt="Java" title="Java" src="icons/java.svg" height="40">
     <img alt="Python" title="Python" src="icons/python.svg" height="40">
@@ -48,6 +48,7 @@
 <p>
     <img alt="Linux" title="Linux" src="icons/linux.png" height="50">
     <img alt="Docker" title="Docker" src="icons/docker.png" height="40">
+    <img alt="NVIM" title="NVIM" src="icons/nvim.webp" height="40">
     <img alt="Express" title="Express" src="icons/express.png" height="40">
     <img alt="Flask" title="Flask" src="icons/flask.svg" height="40">
     <img alt="TeX" title="TeX" src="icons/tex.svg" height="35">
