@@ -1,8 +1,14 @@
 # Hi there, I'm Mik 👋
+### German student with 3+ years of programming experience.
 
-## https://mik-mueller.de
+## FAQ
+|Question|Answer|
+|-       |-     |
+|What am I studying? | Computer Science and English|
+|What is your preffered language? | Go |
+|Which IDE are you using? | No IDE, I'm using nvim as my text editor |
+|What is your programming setup? | Arch Linux, BSPWM, Alacritty, NVIM| 
 
-I am a student from Germany with 3+ years of programming experience.
 
 ## Skills
 
@@ -47,8 +53,6 @@ I am a student from Germany with 3+ years of programming experience.
     <img alt="TeX" title="TeX" src="icons/tex.svg" height="35">
 </p>
 
-## Hobbies
-
 <!-- Beside of programming I really enjoy working with
 
 - Linux (_softare_)
@@ -62,11 +66,11 @@ I am a student from Germany with 3+ years of programming experience.
 <!-- <img alt="2022" title="2022" src="rack2.jpg" height="350"> -->
 <!-- </div> -->
 
-## My Stats
+## Statistics
 
 ![Mik's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikMuellerDev&show_icons=true&theme=dracula&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MikMuellerDev&theme=dracula&langs_count=20&layout=compact)
-![Activity Graph 2](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MikMuellerDev&theme=github_dark)
+<!-- ![Activity Graph 2](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MikMuellerDev&theme=github_dark) -->
 <!-- ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=MikMuellerDev&bg_color=0D1117&color=34BF5C&line=34BF5C&point=FFFFFF&hide_border=true&) -->
 
 <!-- ![Trophies](https://github-profile-trophy.vercel.app/?username=MikMuellerDev&theme=dracula&margin-w=5&margin-h=5&column=3&row=6) -->
