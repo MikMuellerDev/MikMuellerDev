@@ -6,7 +6,7 @@
 |----------------------------------|------------------------------------------|
 | What am I studying?              | Computer Science and English             |
 | What is your preffered language? | Go                                       |
-| Which IDE are you using?         | No IDE, I'm using NVIM as my text editor |
+| Which IDE are you using?         | None, I'm using NVIM as my text editor |
 | What is your programming setup?  | Arch Linux, BSPWM, Alacritty, NVIM       |
 
 
