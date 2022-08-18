@@ -27,6 +27,7 @@
 #### Intermediate
 
 <p>
+    <img alt="Rust" title="Rust" src="icons/rust.svg" height="40">
     <img alt="Java" title="Java" src="icons/java.svg" height="40">
     <img alt="Python" title="Python" src="icons/python.svg" height="40">
 </p>
@@ -34,7 +35,6 @@
 #### Bad / Learning
 
 <p>
-<img alt="Rust" title="Rust" src="icons/rust.svg" height="40">
 <img alt="C" title="C" src="icons/c.png" height="45">
 <img alt="C++" title="C++" src="icons/cpp.png" height="45">
 <img alt="Haskell" title="Haskell" src="icons/haskell.png" height="40">
