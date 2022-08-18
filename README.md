@@ -5,7 +5,7 @@
 | Question                         | Answer                                   |
 |----------------------------------|------------------------------------------|
 | What are you studying?           | Computer Science and English             |
-| What is your preffered language? | Go                                       |
+| What is your preffered language? | Go but Rust is emerging                  |
 | Which IDE are you using?         | None, I'm using NVIM as my text editor   |
 | What is your programming setup?  | Arch Linux, BSPWM, Alacritty, NVIM       |
 
