@@ -15,10 +15,10 @@
 #### Experienced
 
 <p>
+    <img alt="Rust" title="Rust" src="icons/rust.svg" height="40">
     <img alt="Go" title="Go" src="icons/gopher.png" height="50">
     <img alt="TypeScript" title="TypeScript" src="icons/typescript.svg" height="40">
     <img alt="JavaScript" title="JavaScript" src="icons/javascript.svg" height="40">
-    <img alt="Bash" title="Bash" src="icons/bash.svg" height="40">
      <img alt="Svelte" title="Svelte" src="icons/svelte.webp" height="40">
     <img alt="HTML" title="HTML" src="icons/html.svg" height="40">
      <img alt="CSS" title="CSS" src="icons/css.svg" height="40">
@@ -27,9 +27,9 @@
 #### Intermediate
 
 <p>
-    <img alt="Rust" title="Rust" src="icons/rust.svg" height="40">
     <img alt="Java" title="Java" src="icons/java.svg" height="40">
     <img alt="Python" title="Python" src="icons/python.svg" height="40">
+    <img alt="Bash" title="Bash" src="icons/bash.svg" height="40">
 </p>
 
 #### Bad / Learning
@@ -49,8 +49,6 @@
     <img alt="Linux" title="Linux" src="icons/linux.png" height="50">
     <img alt="Docker" title="Docker" src="icons/docker.png" height="40">
     <img alt="NVIM" title="NVIM" src="icons/nvim.webp" height="40">
-    <img alt="Express" title="Express" src="icons/express.png" height="40">
-    <img alt="Flask" title="Flask" src="icons/flask.svg" height="40">
     <img alt="TeX" title="TeX" src="icons/tex.svg" height="35">
 </p>
 
