@@ -22,7 +22,7 @@
      <img alt="Svelte" title="Svelte" src="icons/svelte.webp" height="40">
     <img alt="HTML" title="HTML" src="icons/html.svg" height="40">
      <img alt="CSS" title="CSS" src="icons/css.svg" height="40">
-     <img alt="rush" title="rush" src="icons/rush.svg" height="43">
+     <img alt="rush" title="rush" src="icons/rush.svg" height="43" onclick="window.location.href = 'https://github.com/rush-rs/'">
 </p>
 
 #### Intermediate
