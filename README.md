@@ -1,14 +1,15 @@
 # Hi there, I'm Mik 👋
+
 ### German student with 3+ years of programming experience.
 
 ## FAQ
-| Question                         | Answer                                   |
-|----------------------------------|------------------------------------------|
-| What are you studying?           | Computer Science and English             |
-| What is your preffered language? | Rust, Go as a secondary language         |
-| Which IDE are you using?         | None, I'm using NVIM as my text editor   |
-| What is your programming setup?  | Arch Linux, BSPWM, Alacritty, NVIM       |
 
+| Question                         | Answer                                 |
+| -------------------------------- | -------------------------------------- |
+| What are you studying?           | Computer Science and English           |
+| What is your preffered language? | Rust, Go as a secondary language       |
+| Which IDE are you using?         | None, I'm using NVIM as my text editor |
+| What is your programming setup?  | Arch Linux, BSPWM, Alacritty, NVIM     |
 
 ## Skills
 
@@ -22,7 +23,9 @@
      <img alt="Svelte" title="Svelte" src="icons/svelte.webp" height="40">
     <img alt="HTML" title="HTML" src="icons/html.svg" height="40">
      <img alt="CSS" title="CSS" src="icons/css.svg" height="40">
-     <img alt="rush" title="rush" src="icons/rush.svg" height="43" onclick="window.location.href = 'https://github.com/rush-rs/'">
+     <a href="https://github.com/rush-rs">
+     <img alt="rush" title="rush" src="icons/rush.svg" height="43">
+     </a>
 </p>
 
 #### Intermediate
@@ -70,6 +73,7 @@
 
 ![Mik's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikMuellerDev&show_icons=true&theme=dracula&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MikMuellerDev&theme=dracula&langs_count=20&layout=compact)
+
 <!-- ![Activity Graph 2](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MikMuellerDev&theme=github_dark) -->
 <!-- ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=MikMuellerDev&bg_color=0D1117&color=34BF5C&line=34BF5C&point=FFFFFF&hide_border=true&) -->
 
