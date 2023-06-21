@@ -34,15 +34,14 @@
     <img alt="Java" title="Java" src="icons/java.svg" height="40">
     <img alt="Python" title="Python" src="icons/python.svg" height="40">
     <img alt="Bash" title="Bash" src="icons/bash.svg" height="40">
+    <img alt="C" title="C" src="icons/c.png" height="45">
 </p>
 
 #### Bad / Learning
 
 <p>
-<img alt="C" title="C" src="icons/c.png" height="45">
 <img alt="C++" title="C++" src="icons/cpp.png" height="45">
 <img alt="Haskell" title="Haskell" src="icons/haskell.png" height="40">
-<img alt="Roost" title="Roost" src="icons/roost.png" height="50">
 <img alt="Android Studio" title="Android Studio" src="icons/android-studio.svg" height="40">
 <img alt="Regular Expressions" title="Regular Expressions" src="icons/regex.svg" height="40">
 </p>
@@ -53,21 +52,8 @@
     <img alt="Linux" title="Linux" src="icons/linux.png" height="50">
     <img alt="Docker" title="Docker" src="icons/docker.png" height="40">
     <img alt="NVIM" title="NVIM" src="icons/nvim.webp" height="40">
-    <img alt="TeX" title="TeX" src="icons/tex.svg" height="35">
+    <img alt="LaTeX" title="LaTeX" src="icons/tex.svg" height="35">
 </p>
-
-<!-- Beside of programming I really enjoy working with
-
-- Linux (_softare_)
-- Servers (_hardware_)
-- Networking (_hardware_) (_software_)
-- Building Computers (_hardware_) -->
-
-<!-- ### My (Server & Networking) Rack -->
-<!-- <div> -->
-<!-- <h4>2022</h4> -->
-<!-- <img alt="2022" title="2022" src="rack2.jpg" height="350"> -->
-<!-- </div> -->
 
 ## Statistics
 
