@@ -2,15 +2,6 @@
 
 ### German student with 3+ years of programming experience.
 
-## FAQ
-
-| Question                         | Answer                                 |
-| -------------------------------- | -------------------------------------- |
-| What are you studying?           | Computer Science and English           |
-| What is your preffered language? | Rust, Go as a secondary language       |
-| Which IDE are you using?         | None, I'm using NVIM as my text editor |
-| What is your programming setup?  | Arch Linux, BSPWM, Alacritty, NVIM     |
-
 ## Skills
 
 #### Experienced
