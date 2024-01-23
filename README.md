@@ -1,6 +1,6 @@
 # Hi there, I'm Mik 👋
 
-### German student with 3+ years of programming experience.
+### Student at [Hasso Plattner Institute](https://hpi.de) who likes to build intricate stuff.
 
 ## Skills
 
