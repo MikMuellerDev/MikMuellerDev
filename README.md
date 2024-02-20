@@ -9,13 +9,7 @@
 <p>
     <img alt="Rust" title="Rust" src="icons/rust.svg" height="40">
     <img alt="Go" title="Go" src="icons/gopher.png" height="50">
-    <img alt="TypeScript" title="TypeScript" src="icons/typescript.svg" height="40">
-    <img alt="JavaScript" title="JavaScript" src="icons/javascript.svg" height="40">
-    <img alt="Svelte" title="Svelte" src="icons/svelte.webp" height="40">
-    <img alt="HTML" title="HTML" src="icons/html.svg" height="40">
-    <img alt="CSS" title="CSS" src="icons/css.svg" height="40">
-    <img alt="SCSS" title="SCSS" src="icons/scss.png" height="40">
-    <img alt="Python" title="Python" src="icons/python.svg" height="40">
+    <img alt="C" title="C" src="icons/c.png" height="45">
     <a href="https://github.com/rush-rs">
       <img alt="rush" title="rush" src="icons/rush.svg" height="43">
     </a>
@@ -25,12 +19,18 @@
 
 <p>
     <img alt="Java" title="Java" src="icons/java.svg" height="40">
-    <img alt="C" title="C" src="icons/c.png" height="45">
     <img alt="C++" title="C++" src="icons/cpp.png" height="45">
     <img alt="Bash" title="Bash" src="icons/bash.svg" height="40">
+    <img alt="Python" title="Python" src="icons/python.svg" height="40">
+    <img alt="TypeScript" title="TypeScript" src="icons/typescript.svg" height="40">
+    <img alt="JavaScript" title="JavaScript" src="icons/javascript.svg" height="40">
+    <img alt="Svelte" title="Svelte" src="icons/svelte.webp" height="40">
+    <img alt="HTML" title="HTML" src="icons/html.svg" height="40">
+    <img alt="CSS" title="CSS" src="icons/css.svg" height="40">
+    <img alt="SCSS" title="SCSS" src="icons/scss.png" height="40">
 </p>
 
-#### Bad / Learning
+#### Learning
 
 <p>
 <img alt="Haskell" title="Haskell" src="icons/haskell.png" height="40">
